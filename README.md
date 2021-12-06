@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Akauã Claudino de Lima ✔️ 
-Sou Analista de QA Jr ✔️
-Estudante assíduo de Automação com Ruby e Java ✔️
+Analista de QA Jr ✔️
+
+Estudante de Automação com Ruby e Java ✔️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akauaclaudino/)
 
