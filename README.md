@@ -1,4 +1,4 @@
-###### Olá! Meu nome é Akauã Claudino de Lima, sou Analista de qualidade Jr. e atualmente trabalho na GlobalWeb. Estudo as linguagens Java e Ruby e estou me preparando para tirar a certificação CTFL. Tenho conhecimentos em testes Web manuais ,caixa preta e etc e também estou estudando Api e Mobile. Atuo em times ágeis Scrum e participo das comunidades de QA ✔️ 
+######
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akauaclaudino/)
